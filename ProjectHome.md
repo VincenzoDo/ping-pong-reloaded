@@ -1,0 +1,1 @@
+Variante del gioco Ping Pong sviluppata in VHDL
